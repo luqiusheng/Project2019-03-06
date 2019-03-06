@@ -1,7 +1,7 @@
 package rml.dao;
 
 import rml.model.MUser;
-
+// luqiusheng add
 public interface MUserMapper {
     int deleteByPrimaryKey(String id);
 
