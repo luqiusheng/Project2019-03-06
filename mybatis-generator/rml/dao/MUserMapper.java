@@ -5,7 +5,7 @@ import rml.model.MUser;
 
 // luqiusheng native
 
-//luqiusheng  remote23221
+//luqiusheng  remote
 
 public interface MUserMapper {
     int deleteByPrimaryKey(String id);
