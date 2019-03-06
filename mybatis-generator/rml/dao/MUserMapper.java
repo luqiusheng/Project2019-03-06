@@ -2,7 +2,11 @@ package rml.dao;
 
 import rml.model.MUser;
 // luqiusheng add
+
 // luqiusheng native
+
+//luqiusheng  remote
+
 public interface MUserMapper {
     int deleteByPrimaryKey(String id);
 
