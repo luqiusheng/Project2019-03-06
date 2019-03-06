@@ -23,7 +23,7 @@ public class MUserController {
 	}
 
 	@Autowired
-	public void setMuserService(MUserServiceI muserService) {
+	public void setMuserService(MUserServiceI muserService) { 
 		this.muserService = muserService;
 	}
 	
