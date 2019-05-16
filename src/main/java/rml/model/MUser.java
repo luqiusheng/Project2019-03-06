@@ -41,5 +41,5 @@ public class MUser {
         this.address = address == null ? null : address.trim();
     }
     
-    private Long  agent;
+    private Long  agent; 
 }
