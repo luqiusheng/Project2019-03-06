@@ -42,4 +42,6 @@ public class MUser {
     }
     
     private Long  agentLuqiusheng1234556789; 
+    
+    private String namedsfs;
 }
