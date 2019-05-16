@@ -41,7 +41,7 @@ public class MUser {
         this.address = address == null ? null : address.trim();
     }
     
-    private Long  agentLuqiusheng1234556789; 
+    private Long  agentLuqiusheng1234556789HHHHHH; 
     
     private String namedsfs;
 }
