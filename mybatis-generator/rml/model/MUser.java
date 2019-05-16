@@ -40,4 +40,6 @@ public class MUser {
     public void setAddress(String address) {
         this.address = address == null ? null : address.trim();
     }
+    
+    privavte String password;
 }
